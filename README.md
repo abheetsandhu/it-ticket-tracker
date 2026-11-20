@@ -1,5 +1,12 @@
 # IT Ticket Tracker
 
+[Try the ticket dashboard](https://abheet-sandhu-selected-work.roundmusic128.chatgpt.site/support-desk/index.html)
+
+## Browser dashboard
+
+Open `dashboard/index.html` locally or use the demo link above. Filter for active high-priority tickets, expand **Payroll printer offline**, then change its status to **Closed**. The queue and totals update together. Refreshing restores the four sample tickets.
+
+
 ## Overview
 The IT Ticket Tracker is a beginner-friendly Python project that simulates a basic help desk ticketing system. It allows users to create, view, update, and summarize IT support tickets.
 
